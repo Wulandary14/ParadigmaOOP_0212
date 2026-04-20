@@ -16,4 +16,6 @@ public :
 
 int main(){
     Mahasiswa mhs;
+    mhs.nim = 2000;
+    mhs.nama = "Shinoa";
    
